@@ -1,0 +1,11 @@
+E:\C source file\Lab4_SWE4201\bin\Debug\Lab4_SWE4201.exe.config
+E:\C source file\Lab4_SWE4201\bin\Debug\Lab4_SWE4201.exe
+E:\C source file\Lab4_SWE4201\bin\Debug\Lab4_SWE4201.pdb
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.csproj.AssemblyReference.cache
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.csproj.SuggestedBindingRedirects.cache
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.Form1.resources
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.Properties.Resources.resources
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.csproj.GenerateResource.cache
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.csproj.CoreCompileInputs.cache
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.exe
+E:\C source file\Lab4_SWE4201\obj\Debug\Lab4_SWE4201.pdb
