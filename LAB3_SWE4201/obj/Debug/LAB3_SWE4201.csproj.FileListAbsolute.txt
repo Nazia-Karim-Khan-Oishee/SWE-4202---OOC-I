@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.Form1.resources
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LAB3_SWE4201\bin\Debug\LAB3_SWE4201.exe.config
+C:\Users\ASUS\source\repos\LAB3_SWE4201\bin\Debug\LAB3_SWE4201.exe
+C:\Users\ASUS\source\repos\LAB3_SWE4201\bin\Debug\LAB3_SWE4201.pdb
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.exe
+C:\Users\ASUS\source\repos\LAB3_SWE4201\obj\Debug\LAB3_SWE4201.pdb
