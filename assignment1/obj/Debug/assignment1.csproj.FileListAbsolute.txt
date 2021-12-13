@@ -1,0 +1,22 @@
+E:\C source file\Assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+E:\C source file\Assignment1\obj\Debug\assignment1.csproj.SuggestedBindingRedirects.cache
+E:\C source file\Assignment1\obj\Debug\assignment1.GradeApps.resources
+E:\C source file\Assignment1\obj\Debug\assignment1.Properties.Resources.resources
+E:\C source file\Assignment1\obj\Debug\assignment1.csproj.GenerateResource.cache
+E:\C source file\Assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+E:\C source file\Assignment1\bin\Debug\assignment1.exe.config
+E:\C source file\Assignment1\bin\Debug\assignment1.exe
+E:\C source file\Assignment1\bin\Debug\assignment1.pdb
+E:\C source file\Assignment1\obj\Debug\assignment1.exe
+E:\C source file\Assignment1\obj\Debug\assignment1.pdb
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.csproj.SuggestedBindingRedirects.cache
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.GradeApps.resources
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.csproj.GenerateResource.cache
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.exe
+E:\Download\SWE4201\assignment1\obj\Debug\assignment1.pdb
+E:\Download\SWE4201\assignment1\bin\Debug\assignment1.exe.config
+E:\Download\SWE4201\assignment1\bin\Debug\assignment1.exe
+E:\Download\SWE4201\assignment1\bin\Debug\assignment1.pdb
