@@ -1,0 +1,11 @@
+E:\Download\SWE4201\LAB7_SWE4202\bin\Debug\LAB7_SWE4202.exe.config
+E:\Download\SWE4201\LAB7_SWE4202\bin\Debug\LAB7_SWE4202.exe
+E:\Download\SWE4201\LAB7_SWE4202\bin\Debug\LAB7_SWE4202.pdb
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.csproj.AssemblyReference.cache
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.csproj.SuggestedBindingRedirects.cache
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.StudentCourseEnrollment.resources
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.Properties.Resources.resources
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.csproj.GenerateResource.cache
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.csproj.CoreCompileInputs.cache
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.exe
+E:\Download\SWE4201\LAB7_SWE4202\obj\Debug\LAB7_SWE4202.pdb
