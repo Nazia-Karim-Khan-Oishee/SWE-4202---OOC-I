@@ -1,0 +1,11 @@
+E:\C source file\Lab2_SWE4202\bin\Debug\Lab2_SWE4202.exe.config
+E:\C source file\Lab2_SWE4202\bin\Debug\Lab2_SWE4202.exe
+E:\C source file\Lab2_SWE4202\bin\Debug\Lab2_SWE4202.pdb
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.csproj.AssemblyReference.cache
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.csproj.SuggestedBindingRedirects.cache
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.InformationManagment.resources
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.Properties.Resources.resources
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.csproj.GenerateResource.cache
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.csproj.CoreCompileInputs.cache
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.exe
+E:\C source file\Lab2_SWE4202\obj\Debug\Lab2_SWE4202.pdb
