@@ -1,0 +1,8 @@
+E:\Download\SWE4201\Lab9_Task1\bin\Debug\Lab9_Task1.exe.config
+E:\Download\SWE4201\Lab9_Task1\bin\Debug\Lab9_Task1.exe
+E:\Download\SWE4201\Lab9_Task1\bin\Debug\Lab9_Task1.pdb
+E:\Download\SWE4201\Lab9_Task1\obj\Debug\Lab9_Task1.csproj.AssemblyReference.cache
+E:\Download\SWE4201\Lab9_Task1\obj\Debug\Lab9_Task1.csproj.SuggestedBindingRedirects.cache
+E:\Download\SWE4201\Lab9_Task1\obj\Debug\Lab9_Task1.csproj.CoreCompileInputs.cache
+E:\Download\SWE4201\Lab9_Task1\obj\Debug\Lab9_Task1.exe
+E:\Download\SWE4201\Lab9_Task1\obj\Debug\Lab9_Task1.pdb
