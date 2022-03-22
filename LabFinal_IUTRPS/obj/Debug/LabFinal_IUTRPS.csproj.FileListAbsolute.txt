@@ -1,0 +1,11 @@
+E:\Download\SWE4201\LabFinal_IUTRPS\bin\Debug\LabFinal_IUTRPS.exe.config
+E:\Download\SWE4201\LabFinal_IUTRPS\bin\Debug\LabFinal_IUTRPS.exe
+E:\Download\SWE4201\LabFinal_IUTRPS\bin\Debug\LabFinal_IUTRPS.pdb
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.csproj.AssemblyReference.cache
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.csproj.SuggestedBindingRedirects.cache
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.Form1.resources
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.Properties.Resources.resources
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.csproj.GenerateResource.cache
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.csproj.CoreCompileInputs.cache
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.exe
+E:\Download\SWE4201\LabFinal_IUTRPS\obj\Debug\LabFinal_IUTRPS.pdb
